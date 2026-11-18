@@ -76,7 +76,7 @@ h2 {
   display: inline-block;
 }
 h3 {
-  font-size: 1.15rem; margin: 2rem 0 0.7rem; color: var(--accent-2);
+  font-size: 1.15rem; margin: 2rem 0 0.7rem; color: var(--ink);
   scroll-margin-top: 1rem;
 }
 p { margin: 0 0 1rem; }
